@@ -1,0 +1,7 @@
+*.idea
+*.iml
+*.pem
+*.ppk
+
+.env
+*.mp4
